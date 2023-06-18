@@ -13,6 +13,12 @@
       "email": "nickoyanutama@gmail.com"
     }
   ],
+  "repositories": [
+    {
+      "type": "vcs",
+      "url": "https://github.com/nickoyanutama/belajar-php-composer-hello"
+    }
+  ],
   "require": {
     "php": ">=8.0"
   }
